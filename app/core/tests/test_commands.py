@@ -1,5 +1,5 @@
 """
-Test custom Django mnagement commands
+Test custom Django mnagement commands.
 """
 
 from unittest.mock import patch

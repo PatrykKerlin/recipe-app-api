@@ -1,0 +1,11 @@
+[flake8]
+
+max-line-length = 88
+
+per-file-ignores =
+    app/app/settings.py: E501
+
+exclude =
+    app/core/migrations
+    app/core/__pycache__
+    app/core/manage.py
